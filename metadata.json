@@ -1,0 +1,6 @@
+{
+  "name": "Tauro Ganadería",
+  "description": "Juego de gestión y simulación de ganadería de reses bravas: cría, genética, festejos taurinos y prestigio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
